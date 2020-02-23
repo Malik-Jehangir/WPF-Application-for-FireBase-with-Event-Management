@@ -1,0 +1,13 @@
+C:\Users\MALIKJEHANGIRAHMED\Desktop\Spot Backend\Spot Backend\bin\Debug\Spot Backend.exe.config
+C:\Users\MALIKJEHANGIRAHMED\Desktop\Spot Backend\Spot Backend\bin\Debug\Spot Backend.exe
+C:\Users\MALIKJEHANGIRAHMED\Desktop\Spot Backend\Spot Backend\bin\Debug\Spot Backend.pdb
+C:\Users\MALIKJEHANGIRAHMED\Desktop\Spot Backend\Spot Backend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MALIKJEHANGIRAHMED\Desktop\Spot Backend\Spot Backend\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MALIKJEHANGIRAHMED\Desktop\Spot Backend\Spot Backend\obj\Debug\Spot Backend.csprojAssemblyReference.cache
+C:\Users\MALIKJEHANGIRAHMED\Desktop\Spot Backend\Spot Backend\obj\Debug\Spot_Backend.Form1.resources
+C:\Users\MALIKJEHANGIRAHMED\Desktop\Spot Backend\Spot Backend\obj\Debug\Spot_Backend.Properties.Resources.resources
+C:\Users\MALIKJEHANGIRAHMED\Desktop\Spot Backend\Spot Backend\obj\Debug\Spot Backend.csproj.GenerateResource.cache
+C:\Users\MALIKJEHANGIRAHMED\Desktop\Spot Backend\Spot Backend\obj\Debug\Spot Backend.csproj.CoreCompileInputs.cache
+C:\Users\MALIKJEHANGIRAHMED\Desktop\Spot Backend\Spot Backend\obj\Debug\Spot Backend.csproj.CopyComplete
+C:\Users\MALIKJEHANGIRAHMED\Desktop\Spot Backend\Spot Backend\obj\Debug\Spot Backend.exe
+C:\Users\MALIKJEHANGIRAHMED\Desktop\Spot Backend\Spot Backend\obj\Debug\Spot Backend.pdb
